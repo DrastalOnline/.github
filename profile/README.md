@@ -78,6 +78,10 @@ seront communiquées via le **site officiel** lorsque cela sera pertinent.
 
 👉 https://www.drastalonline.fr
 
+Rejoignez la communauté **Drastal Online** sur Discord :
+
+[![Discord](https://img.shields.io/badge/Discord-Rejoindre-5865F2?logo=discord&logoColor=white)](https://discord.gg/bgJaKcD)
+
 ---
 
 ## ❓ FAQ
